@@ -7,8 +7,8 @@
 This is a simple theme made to be soft on eyes for those who prefer light themes.
 
 ## Features
-  - Made to be soft on eyes
-  - Colors are muted to be less distracting.
+  - Made to be soft on eyes.
+  - Accent colors are muted to be less distracting.
   - Supports Jupyter notebooks.
 
 ## Screenshots
