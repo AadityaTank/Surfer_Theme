@@ -1,0 +1,22 @@
+{
+    "name": "surfer-light-theme",
+    "displayName": "Surfer Light Theme",
+    "description": "",
+    "publisher": "Surfer",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Surfer Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Surfer Light Theme-color-theme.json"
+            }
+        ]
+    }
+}
