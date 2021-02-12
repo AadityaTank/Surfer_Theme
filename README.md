@@ -4,4 +4,6 @@
 
 This is a flat light theme made to be soft on eyes for those who prefer light themes.
 
-![Surfer Light](https://raw.githubusercontent.com/)
+![Surfer Light](https://github.com//AadityaTank/Surfer_Theme/blob/main/static/screenshot1.jpg?raw=true)
+
+![Surfer Light](https://github.com//AadityaTank/Surfer_Theme/blob/main/static/screenshot2.jpg?raw=true)
